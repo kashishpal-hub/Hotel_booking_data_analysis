@@ -43,7 +43,7 @@ An interactive Excel dashboard was created to present the key findings and make 
 
 ## 📂 Project File
 
-📊 [Download Excel Analysis File](./Hotel_booking_data_analysis.xlsx)
+📊 [Download Excel Analysis File](./Hotel%20bookings%20data%20analysis.xlsx)
 
 ## 💡 Key Insights
 

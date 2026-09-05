@@ -47,7 +47,23 @@ An interactive Excel dashboard was created to present the key findings and make 
 
 ## 💡 Key Insights
 
-The analysis helps understand booking patterns, customer behavior, cancellation trends, and factors affecting hotel bookings.
+## 📊 Key Insights
+
+- The overall booking cancellation rate was approximately **37%**, indicating a significant number of reservations were cancelled.
+
+- **City Hotel** had a higher cancellation rate of approximately **41.7%**, compared with around **27.8%** for Resort Hotel.
+
+- **Couples** represented the largest customer segment, with approximately **81,560 bookings**.
+
+- The cancellation rate for **Couples was around 39.8%**, making this an important segment for cancellation analysis.
+
+- **Room Type A** was the most frequently reserved room type, with approximately **85,994 bookings**.
+
+- Room Type A also recorded a cancellation rate of approximately **39.1%**.
+
+- **June** recorded one of the highest monthly cancellation rates at approximately **41.5%**, followed by **April at around 40.8%**.
+
+- The analysis helps identify booking patterns, cancellation trends, customer segments, room preferences, and factors affecting hotel revenue.
 
 ## 🚀 Project Outcome
 

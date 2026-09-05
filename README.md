@@ -39,6 +39,7 @@ The project includes analysis of:
 ## 📈 Dashboard
 
 An interactive Excel dashboard was created to present the key findings and make the analysis easy to understand.
+![Hotel Booking Dashboard](
 
 ## 📂 Project File
 
